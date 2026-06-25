@@ -87,48 +87,39 @@ name1, name2 = name2, name1
 
 ```python
 # в качестве названия переменных запрещено использовать ключевые (зарезервированные) слова:
-False
-True
-None
-and
-with
-    as
-assert
-break
-
-
-class
-
-
-    continue
-
-
-def
-
-
-    del
-elif
-else
-except
-finally
-try
-    for
-    from
-
-global
-if
-    import
-in
-is
-lambda
-        nonlocal
-        not
-        or
-        pass
-        raise
-        return
-        while
-        yield
+# False 
+# True 
+# None 
+# and 
+# with 
+# as 
+# assert 
+# break 
+# class 
+# continue 
+# def 
+# del 
+# elif 
+# else 
+# except 
+# finally 
+# try 
+# for 
+# from 
+# global 
+# if 
+# import 
+# in 
+# is 
+# lambda 
+# nonlocal
+# not
+# or
+# pass
+# raise
+# return
+# while
+# yield
 ```
 
 #### PEP 8
